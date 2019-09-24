@@ -1,0 +1,3 @@
+file name code:
+
+"f_male5_stack_2.wav"  =  familiarity of the call  _  bird that emmits the call  _  calltype _ idnumber of the call   .wav
